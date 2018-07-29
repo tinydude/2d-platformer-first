@@ -19,7 +19,7 @@ __meta__ = {
 "_edit_group_": true
 }
 run_speed = 250
-jump_speed = -400
+jump_speed = -450
 gravity = 1200
 
 [node name="Sprite" type="Sprite" parent="." index="0"]
